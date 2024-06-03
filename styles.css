@@ -344,7 +344,7 @@ a.btn:hover {
 .yoko img {
     width: auto; /* Auto width */
     height: auto; /* Auto height */
-    margin-right: 70px; /* Add space to the right */
+    margin-left: 70px; /* Add space to the right */
 }
 
 /* Sankaku Mondai */
