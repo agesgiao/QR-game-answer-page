@@ -150,7 +150,7 @@ iframe {
 }
 
 #index { background-image: url("img/neko.JPG"); }
-#base { background-image: url("img/samune.PNG"); min-height: 90vh;}
+#base { background-image: url("img/samune.png"); min-height: 90vh;}
 #heart { background-image: url("img/sankaku heart.PNG"); }
 #sankaku { background-image: url("img/samune sankaku.PNG"); }
 #maru { background-image: url("img/samune maru.PNG"); }
