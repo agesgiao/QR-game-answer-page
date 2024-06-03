@@ -110,7 +110,7 @@ iframe {
     background-color: #333;
     border: 1px solid #575757;
     width: 250px; /* メニューの幅を広くする */
-    higth: 20px;
+    higth: 10px;
 }
 
 .menu li {
@@ -361,7 +361,7 @@ a.btn:hover {
 .yoko-retu img {
     width: 200px; /* Set image width */
     height: 200px; /* Auto height */
-    margin-right: 10px; /* Add space to the right */
+    margin-right: 3px; /* Add space to the right */
 }
 
 /* Footer */
