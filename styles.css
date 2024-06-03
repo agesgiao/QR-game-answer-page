@@ -110,7 +110,7 @@ iframe {
     background-color: #333;
     border: 1px solid #575757;
     width: 250px; /* メニューの幅を広くする */
-    higth: 10px;
+    higth: 6px;
 }
 
 .menu li {
@@ -344,7 +344,7 @@ a.btn:hover {
 .yoko img {
     width: auto; /* Auto width */
     height: auto; /* Auto height */
-    margin-left: 70px; /* Add space to the right */
+    margin-left: 30px; /* Add space to the right */
 }
 
 /* Sankaku Mondai */
