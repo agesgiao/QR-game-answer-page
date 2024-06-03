@@ -148,18 +148,18 @@ iframe {
     min-height: 80vh;
 }
 
-#index { background-image: url("../img/neko.JPG"); }
-#game { background-image: url("../img/heart.png"); }
-#base { background-image: url("../img/samune.PNG"); min-height: 90vh;}
-#heart { background-image: url("../img/sankaku heart.PNG"); }
-#sankaku { background-image: url("../img/samune sankaku.PNG"); }
-#maru { background-image: url("../img/samune maru.PNG"); }
-#sikaku { background-image: url("../img/samine sikaku.PNG"); }
-#batsu { background-image: url("../img/samune x.PNG"); }
-#clover { background-image: url("../img/samune clover.PNG"); }
-#spade { background-image: url("../img/samune spade.PNG"); }
-#dia { background-image: url("../img/samune dia.PNG"); }
-#star { background-image: url("../img/samune hosi.PNG"); }
+#index { background-image: url("img/neko.JPG"); }
+#game { background-image: url("img/heart.png"); }
+#base { background-image: url("img/samune.PNG"); min-height: 90vh;}
+#heart { background-image: url("img/sankaku heart.PNG"); }
+#sankaku { background-image: url("img/samune sankaku.PNG"); }
+#maru { background-image: url("img/samune maru.PNG"); }
+#sikaku { background-image: url("img/samine sikaku.PNG"); }
+#batsu { background-image: url("img/samune x.PNG"); }
+#clover { background-image: url("img/samune clover.PNG"); }
+#spade { background-image: url("img/samune spade.PNG"); }
+#dia { background-image: url("img/samune dia.PNG"); }
+#star { background-image: url("img/samune hosi.PNG"); }
 
 /* Home Page */
 .mondai-content {
