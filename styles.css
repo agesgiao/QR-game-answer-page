@@ -110,6 +110,7 @@ iframe {
     background-color: #333;
     border: 1px solid #575757;
     width: 250px; /* メニューの幅を広くする */
+    higth: 20px;
 }
 
 .menu li {
@@ -149,7 +150,6 @@ iframe {
 }
 
 #index { background-image: url("img/neko.JPG"); }
-#game { background-image: url("img/heart.png"); }
 #base { background-image: url("img/samune.PNG"); min-height: 90vh;}
 #heart { background-image: url("img/sankaku heart.PNG"); }
 #sankaku { background-image: url("img/samune sankaku.PNG"); }
