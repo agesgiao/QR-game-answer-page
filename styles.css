@@ -149,7 +149,7 @@ iframe {
     min-height: 80vh;
 }
 
-#index { background-image: url("img/kaitou page.png"); }
+#index { background-image: url("img/game over.png"); }
 #base { background-image: url("img/samune.png"); min-height: 100vh;}
 #heart { background-image: url("img/sankaku heart.PNG"); }
 #sankaku { background-image: url("img/samune sankaku.PNG"); }
